@@ -170,11 +170,15 @@ constructora
   <section id="galeria">
     <h2>Galería</h2>
     <div class="galeria">
-      <img src="https://via.placeholder.com/400x250/ffcc00/000000?text=Proyecto+1" alt="Proyecto 1">
-      <img src="https://via.placeholder.com/400x250/ffcc00/000000?text=Proyecto+2" alt="Proyecto 2">
-      <img src="https://via.placeholder.com/400x250/ffcc00/000000?text=Proyecto+3" alt="Proyecto 3">
+      <img src="imagenes/imagen_1_1.jpeg" alt="Instalación de tablaroca">
+      <img src="imagenes/imagen_1_3.png" alt="Acabado de muros">
+      <img src="imagenes/imagen_2_5.jpeg" alt="Piso y azulejo en cocina">
+      <img src="imagenes/imagen_3_3.jpeg" alt="Drenaje y fontanería">
+      <img src="imagenes/imagen_4_1.jpeg" alt="Colocación de estufa eléctrica">
+      <img src="imagenes/imagen_5_4.jpeg" alt="Loza de concreto con tubería de luz">
     </div>
   </section>
+
 
   <section id="contacto" class="contacto">
     <h2>Contacto</h2>
@@ -190,3 +194,4 @@ constructora
   </footer>
 </body>
 </html>
+
